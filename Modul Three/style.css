@@ -1,0 +1,39 @@
+body{
+    width: auto;
+    height: auto;
+	background-image: url("https://media.gettyimages.com/photos/full-frame-shot-of-colorful-wool-balls-for-sale-at-store-picture-id678427515?s=612x612");
+	background-size: cover;
+	font-family: 'Bungee Hairline', cursive;
+}
+.container{
+	display: flex;
+	justify-content:center;
+	align-items: center;
+	flex-direction: column;
+	margin-top: 30px;
+	border: 2px solid #06d6a0;
+	border-radius: 10px;
+	background-color: #619b8a;
+	width: 400px;
+	height: 600px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#increament-btn{
+      width: 170px;
+      height: 90px;
+      border: 2px solid #ffddd2;
+	margin-top: 100px;
+	background-color: #bc4749;
+	font-size: 20px;
+
+}
+#save-btn{
+      width: 170px;
+      height: 90px;
+      border: 2px solid #ffddd2;
+	margin-top: 20px;
+	background-color: #006d77;
+	font-size: 20px;
+
+}
